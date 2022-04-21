@@ -1,0 +1,48 @@
+#navbarHeader ,#navbarToHide, #navbar {
+    background-color: #0C0920!important;
+
+}
+#card {
+
+    width: 40%;
+    margin-left: auto;
+    margin-right: auto;
+}
+img{
+    width: 30%;
+    height: 30%;
+    border-radius: 5%;
+    margin-top: 5%;
+    margin-bottom: 2%;
+}
+ul {
+    list-style-type: none;
+  }
+
+
+
+.card1{
+    width: 18rem;
+    margin-left: 4%;
+    margin-top: 2%;
+    border-radius: 5%;
+
+}
+.h1S{
+    margin-left: 1%;
+}
+@media screen and (max-width: 640px) {
+    img{
+        width: 60%;
+        height: 60%;
+        border-radius: 5%;
+        margin-top: 5%;
+        margin-bottom: 2%;
+    }
+    #card {
+
+        width: 60%;
+        margin-left: auto;
+        margin-right: auto;
+    }
+}

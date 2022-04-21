@@ -1,0 +1,25 @@
+.form {
+    width: 450px ;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 2%;
+}
+#floatingPassword{
+    margin-top: 1%;
+    margin-bottom: 1%;
+}
+#creeCompte{
+    margin-top: 2%;
+}
+#navbarHeader ,#navbarToHide, #navbar {
+    background-color: #0C0920!important;
+
+}
+.request{
+    text-align: center;
+    margin-top: 5%;
+}
+.messageError{
+    text-align: center;
+    margin-top: 5%;
+}
